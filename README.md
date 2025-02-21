@@ -2,7 +2,7 @@
 "This is my first Git Repoistory"
 
 # Teacher
-sumit patel.
+sumit patel
 
 # Student
 sumit patel
